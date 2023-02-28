@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/drawable/device_filter.xml" value="0.1155" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/drawable/language.xml" value="0.1085" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/drawable/version.xml" value="0.2785" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/activity_blufi.xml" value="0.33" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/activity_settings.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/blufi_content.xml" value="0.18" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/blufi_message_item.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/layout/main_ble_item.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/xml/blufi_settings.xml" value="0.25" />
+        <entry key="..\:/Users/thang/AndroidStudioProjects/tmt_mesh/app/src/main/res/xml/styles.xml" value="0.19021739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
